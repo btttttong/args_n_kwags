@@ -1,4 +1,5 @@
 from random import random, randint
+# without mutable handle:
 # def process_list(list_to_process=[]):
 #     list_to_process.append(randint(1, 10))
 #     return list_to_process
